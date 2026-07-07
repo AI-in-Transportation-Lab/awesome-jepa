@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-July 6, 2026 at 03:56:50 AM UTC
+July 7, 2026 at 03:47:33 AM UTC
 
 
 ## Theorem
 
-## Papers (176)
+## Papers (179)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -212,6 +212,9 @@ July 6, 2026 at 03:56:50 AM UTC
 - [A Lightweight Self-Supervised Learning Framework for Multivariate Time Series using Hierarchical-JEPA on ECG Data](https://arxiv.org/abs/2607.01145)
 - [Communication-Aware and Safety-Aware UAV Control via Predictive Latent Models](https://arxiv.org/abs/2607.00288)
 - [AEGIS: A Multi-Task Joint-Embedding Predictive Architecture for Mammography](https://arxiv.org/abs/2607.00277)
+- [Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control](https://arxiv.org/abs/2607.04978)
+- [Masked Generative-Contrastive Representation Learning for Cross-Dataset EEG-Based Emotion Recognition](https://arxiv.org/abs/2607.04139)
+- [SiamJEPA: On the Role of Siamese Student Encoders in JEPA](https://arxiv.org/abs/2607.04044)
 
 
 ## Library
