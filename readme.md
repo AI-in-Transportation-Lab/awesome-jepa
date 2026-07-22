@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-July 21, 2026 at 02:57:29 AM UTC
+July 22, 2026 at 02:55:26 AM UTC
 
 
 ## Theorem
 
-## Papers (195)
+## Papers (198)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -231,6 +231,9 @@ July 21, 2026 at 02:57:29 AM UTC
 - [A Framework for Early Sepsis Prediction via Self-Supervised (JEPA) and Federated Representation Learning](https://arxiv.org/abs/2607.16681)
 - [Joint-Embedding Predictive Architecture for Sensor-based Activity Recognition](https://arxiv.org/abs/2607.16350)
 - [The JEPA Predictor: A Transferable Operator for Occluded Feature Completion](https://arxiv.org/abs/2607.16274)
+- [Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs](https://arxiv.org/abs/2607.18412)
+- [Physics-Guided Masked Multi-Task Network for Edge-Friendly Battery Health Diagnostics from Sto-chastically Fragmented Charging Profiles](https://arxiv.org/abs/2607.18330)
+- [Dynamic Loss Balancing for Joint SOH and RUL Prediction of Lithium-Ion Batteries via a Rotary SOH-Injected Prior Battery Transformer](https://arxiv.org/abs/2607.18329)
 
 
 ## Library
