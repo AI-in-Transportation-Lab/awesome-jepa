@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-July 26, 2026 at 03:21:43 AM UTC
+July 27, 2026 at 03:31:34 AM UTC
 
 
 ## Theorem
 
-## Papers (200)
+## Papers (205)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -236,6 +236,11 @@ July 26, 2026 at 03:21:43 AM UTC
 - [Dynamic Loss Balancing for Joint SOH and RUL Prediction of Lithium-Ion Batteries via a Rotary SOH-Injected Prior Battery Transformer](https://arxiv.org/abs/2607.18329)
 - [JEPA-CFM: A Joint Embedding Predictive Architecture-based Channel Foundation Model for Robust Fluid Antenna Systems](https://arxiv.org/abs/2607.20202)
 - [Direct Bethe Free Energy Minimization for Bayesian Neural Networks](https://arxiv.org/abs/2605.08446)
+- [On the Identifiability of Controlled World Models](https://arxiv.org/abs/2607.22430)
+- [IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data](https://arxiv.org/abs/2607.22351)
+- [Unbiased Open World Regularization for Fair Self-Supervised Learning](https://arxiv.org/abs/2607.22149)
+- [Music-JEPA: Learning a World Model of Sound from Action](https://arxiv.org/abs/2607.22000)
+- [Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations](https://arxiv.org/abs/2607.21644)
 
 
 ## Library
