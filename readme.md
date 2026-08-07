@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-August 6, 2026 at 02:51:09 AM UTC
+August 7, 2026 at 02:49:27 AM UTC
 
 
 ## Theorem
 
-## Papers (219)
+## Papers (223)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -255,6 +255,10 @@ August 6, 2026 at 02:51:09 AM UTC
 - [HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning](https://arxiv.org/abs/2608.00491)
 - [NodeJEPA: Structure-Conditioned Latent Prediction for Node-Level Graph Self-Supervised Learning](https://arxiv.org/abs/2608.04381)
 - [SJEPA: Learning Elegant Latent Dynamics with Hybrid Symbolic-Neural Predictors](https://arxiv.org/abs/2608.04060)
+- [Bar-JEPA: Extracting Values from Bar Chart with Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2608.06062)
+- [BioM-JEPA: joint-embedding prediction of graph-connected gene blocks in single cells](https://arxiv.org/abs/2608.05928)
+- [SR-JEPA: Learning Predictive Latent State in 3D Scenes](https://arxiv.org/abs/2608.05774)
+- [Discrete energy as an exact label-free training objective for finite-element surrogates](https://arxiv.org/abs/2608.05437)
 
 
 ## Library
