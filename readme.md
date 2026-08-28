@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-August 27, 2026 at 08:23:10 AM UTC
+August 28, 2026 at 10:24:09 AM UTC
 
 
 ## Theorem
 
-## Papers (240)
+## Papers (242)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -276,6 +276,8 @@ August 27, 2026 at 08:23:10 AM UTC
 - [Tracing the Unlabeled Storm: Cross-Variable Transfer in a Lagrangian Atmospheric JEPA Framework](https://arxiv.org/abs/2608.22358)
 - [LpWM: A Case for Sparse Representations in World Models](https://arxiv.org/abs/2608.22764)
 - [Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules](https://arxiv.org/abs/2608.22642)
+- [Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models](https://arxiv.org/abs/2608.27367)
+- [Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference](https://arxiv.org/abs/2608.26354)
 
 
 ## Library
