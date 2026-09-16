@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-September 15, 2026 at 04:08:04 AM UTC
+September 16, 2026 at 04:04:33 AM UTC
 
 
 ## Theorem
 
-## Papers (254)
+## Papers (258)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -290,6 +290,10 @@ September 15, 2026 at 04:08:04 AM UTC
 - [Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis](https://arxiv.org/abs/2609.09757)
 - [LePlanner: An Iterative Amortized Controller For World Models](https://arxiv.org/abs/2609.13845)
 - [Predictive audio representations for early detection and tracking of hidden dynamic objects](https://arxiv.org/abs/2609.13595)
+- [Distributed JEPA: A Self-Supervised Framework for Energy Forecasting](https://arxiv.org/abs/2609.17029)
+- [Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778)
+- [Which Pretext Task Transfers? Self-Supervised Pretraining Objectives for Lung Ultrasound](https://arxiv.org/abs/2609.16551)
+- [Schema-Adaptive Action-Conditioned JEPA for Cross-Machine CNC Transfer under Partial Sensor Overlap](https://arxiv.org/abs/2609.16071)
 
 
 ## Library
