@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-September 17, 2026 at 04:11:27 AM UTC
+September 18, 2026 at 03:56:31 AM UTC
 
 
 ## Theorem
 
-## Papers (258)
+## Papers (259)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -294,6 +294,7 @@ September 17, 2026 at 04:11:27 AM UTC
 - [Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778)
 - [Which Pretext Task Transfers? Self-Supervised Pretraining Objectives for Lung Ultrasound](https://arxiv.org/abs/2609.16551)
 - [Schema-Adaptive Action-Conditioned JEPA for Cross-Machine CNC Transfer under Partial Sensor Overlap](https://arxiv.org/abs/2609.16071)
+- [JEPA-Anything: Learning Predictive Models across Different Worlds](https://arxiv.org/abs/2609.20800)
 
 
 ## Library
