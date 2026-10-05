@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 4, 2026 at 05:04:05 AM UTC
+October 5, 2026 at 04:50:43 AM UTC
 
 
 ## Theorem
 
-## Papers (294)
+## Papers (300)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -330,6 +330,12 @@ October 4, 2026 at 05:04:05 AM UTC
 - [VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning](https://arxiv.org/abs/2609.40129)
 - [Variational Streaming Flow: Probabilistic Forecasting in Physical Time](https://arxiv.org/abs/2610.00976)
 - [JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts](https://arxiv.org/abs/2610.00722)
+- [AVL-JEPA: Preventing Causal Dynamics Information Collapse In Joint Embedding Predictive Architecture World Models](https://arxiv.org/abs/2610.03587)
+- [S2S-JEPA: Predicting the Predictable at Subseasonal-to-Seasonal Timescales](https://arxiv.org/abs/2610.03106)
+- [TwinJEPA: Action-Preferred Predictive Representations for Goal-Conditioned Control](https://arxiv.org/abs/2610.02922)
+- [NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings](https://arxiv.org/abs/2610.02864)
+- [Latent Goal Prediction from Language for Model-Based Planning](https://arxiv.org/abs/2606.20627)
+- [Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2610.02344)
 
 
 ## Library
