@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 5, 2026 at 04:50:43 AM UTC
+October 6, 2026 at 05:37:35 AM UTC
 
 
 ## Theorem
 
-## Papers (300)
+## Papers (310)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -336,6 +336,16 @@ October 5, 2026 at 04:50:43 AM UTC
 - [NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings](https://arxiv.org/abs/2610.02864)
 - [Latent Goal Prediction from Language for Model-Based Planning](https://arxiv.org/abs/2606.20627)
 - [Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2610.02344)
+- [LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning](https://arxiv.org/abs/2610.06226)
+- [EpicWorldModel: Exploration-driven Planning with Latent World Models](https://arxiv.org/abs/2610.05996)
+- [T-JEPA: A Temporal Joint-Embedding Predictive Architecture for Learning Better Remote Sensing Representations](https://arxiv.org/abs/2610.05731)
+- [AngularWM: Wireless World Modeling for AoA Prediction from Multi-Antenna I/Q](https://arxiv.org/abs/2610.05543)
+- [BeliefGraph-JEPA: Structured Latent World Models for Action-Conditioned Time Series](https://arxiv.org/abs/2610.05409)
+- [Pythia: Toward Foundation World Models for Multimodal Time Series](https://arxiv.org/abs/2610.05240)
+- [CI-JEPA: A Counterfactual Analysis of Latent Representations in Joint-Embedding Predictive Architectures for Self-Supervised Learning](https://arxiv.org/abs/2610.05043)
+- [RepTC: Representation-Aware Optimization for Efficient Traffic Classification on Edge IoT Devices](https://arxiv.org/abs/2610.04784)
+- [Frozen in a Frame: The Velocity Blind Spot in JEPA World Models](https://arxiv.org/abs/2610.04585)
+- [Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space](https://arxiv.org/abs/2606.26410)
 
 
 ## Library
