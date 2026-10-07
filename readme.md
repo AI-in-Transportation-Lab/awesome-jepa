@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 6, 2026 at 05:37:35 AM UTC
+October 7, 2026 at 05:07:57 AM UTC
 
 
 ## Theorem
 
-## Papers (310)
+## Papers (313)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -346,6 +346,9 @@ October 6, 2026 at 05:37:35 AM UTC
 - [RepTC: Representation-Aware Optimization for Efficient Traffic Classification on Edge IoT Devices](https://arxiv.org/abs/2610.04784)
 - [Frozen in a Frame: The Velocity Blind Spot in JEPA World Models](https://arxiv.org/abs/2610.04585)
 - [Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space](https://arxiv.org/abs/2606.26410)
+- [Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems](https://arxiv.org/abs/2610.08400)
+- [Reperesentation Geometry Matters for Planning with JEPA World Models](https://arxiv.org/abs/2608.16287)
+- [Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models](https://arxiv.org/abs/2610.07540)
 
 
 ## Library
