@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 13, 2026 at 06:08:55 AM UTC
+October 14, 2026 at 04:11:56 AM UTC
 
 
 ## Theorem
 
-## Papers (321)
+## Papers (328)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -357,6 +357,13 @@ October 13, 2026 at 06:08:55 AM UTC
 - [JEPA-kMMVAE: CSI Prediction for Time-Varying Wireless Channels](https://arxiv.org/abs/2610.13315)
 - [The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging](https://arxiv.org/abs/2610.13237)
 - [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818)
+- [Joint Embedding with Dynamic Integration network (JEDI-net)](https://arxiv.org/abs/2610.17314)
+- [Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors](https://arxiv.org/abs/2610.15556)
+- [LeHami: Symplectic Latent Dynamics for World Models](https://arxiv.org/abs/2610.15267)
+- [Edge-Native Temporal--Graph Dual-Expert Inference for Dexterous Grasp Classification](https://arxiv.org/abs/2610.14926)
+- [Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Inference](https://arxiv.org/abs/2607.04978)
+- [LeWAM: Latent evolving World Action Model](https://arxiv.org/abs/2609.27455)
+- [Sparse-TD-JEPA: Improving Zero-Shot Reinforcement Learning With Sparse Latent Task Representations](https://arxiv.org/abs/2610.14400)
 
 
 ## Library
