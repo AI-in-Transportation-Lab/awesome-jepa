@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 18, 2026 at 03:46:57 AM UTC
+October 19, 2026 at 03:56:14 AM UTC
 
 
 ## Theorem
 
-## Papers (329)
+## Papers (332)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -365,6 +365,9 @@ October 18, 2026 at 03:46:57 AM UTC
 - [LeWAM: Latent evolving World Action Model](https://arxiv.org/abs/2609.27455)
 - [Sparse-TD-JEPA: Improving Zero-Shot Reinforcement Learning With Sparse Latent Task Representations](https://arxiv.org/abs/2610.14400)
 - [W-JEPA: Wavelet Joint-Embedding Predictive Architecture for Wearable Activity Recognition](https://arxiv.org/abs/2610.19411)
+- [BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL](https://arxiv.org/abs/2610.23127)
+- [Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning](https://arxiv.org/abs/2610.22792)
+- [Network-Wide Freeway Speed Nowcasting and Forecasting from Sparse Fixed Sensors with a Probe-Supervised Graph Convolutional Recurrent Network](https://arxiv.org/abs/2610.22630)
 
 
 ## Library
