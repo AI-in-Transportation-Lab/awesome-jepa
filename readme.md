@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-October 26, 2026 at 03:59:05 AM UTC
+October 27, 2026 at 04:20:21 AM UTC
 
 
 ## Theorem
 
-## Papers (345)
+## Papers (348)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -381,6 +381,9 @@ October 26, 2026 at 03:59:05 AM UTC
 - [Inside-JEPA: From Prediction to Relational Grounding in Latent World Models](https://arxiv.org/abs/2610.31194)
 - [DT-JEPA: Learning to Predict Future Representations for Decision-Making](https://arxiv.org/abs/2610.32657)
 - [See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762)
+- [Masked and Predictive Self-Supervised Pretraining for Brain MRI: Effects of Objective Design on Disease Detection](https://arxiv.org/abs/2606.13315)
+- [Fovea-JEPA: Overcoming Geometric Blind Spots in V-JEPA for Camera Motion Recognition](https://arxiv.org/abs/2610.34033)
+- [Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns](https://arxiv.org/abs/2610.33310)
 
 
 ## Library
