@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 12, 2026 at 06:29:26 AM UTC
+November 13, 2026 at 05:49:30 AM UTC
 
 
 ## Theorem
 
-## Papers (373)
+## Papers (376)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -409,6 +409,9 @@ November 12, 2026 at 06:29:26 AM UTC
 - [RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval](https://arxiv.org/abs/2611.14496)
 - [Market-Conditioned JEPA: Learning from Unpredictable Market Shocks](https://arxiv.org/abs/2611.13572)
 - [ΣΣ-LeWM: Learning World Models via S-Information for Robot Control](https://arxiv.org/abs/2611.12732)
+- [ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving](https://arxiv.org/abs/2611.16579)
+- [Same-State Pairs Make One JEPA Proof of the Platonic Representation Hypothesis Vacuous](https://arxiv.org/abs/2611.16182)
+- [CommJEPA: When Predictive Representation Learning Meets Wireless Intelligence](https://arxiv.org/abs/2611.14961)
 
 
 ## Library
