@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 16, 2026 at 05:37:41 AM UTC
+November 17, 2026 at 07:14:19 AM UTC
 
 
 ## Theorem
 
-## Papers (379)
+## Papers (387)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -415,6 +415,14 @@ November 16, 2026 at 05:37:41 AM UTC
 - [AG-JEPA: Anatomically Guided Joint Embedding Predictive Architecture for Neurodegenerative Representation Learning](https://arxiv.org/abs/2611.18097)
 - [Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations](https://arxiv.org/abs/2611.17905)
 - [Where to Predict in Retinal OCT? Anatomy-Guided Target Selection for I-JEPA](https://arxiv.org/abs/2611.17586)
+- [SADL: On the Demand-Supply Geometry of Representation Collapse](https://arxiv.org/abs/2611.21596)
+- [Digital Twin Enabled Talkative Power Conversion](https://arxiv.org/abs/2611.21204)
+- [JEPTERA: A Platform Agnostic JEPA-Assisted Model Predictive Planner for Urban UAV Navigation](https://arxiv.org/abs/2611.20593)
+- [VISTA: A Framework for Vision-Informed Semantic Traffic Awareness](https://arxiv.org/abs/2611.20458)
+- [JEPA4R: Embodied JEPA World Models with 4D Point Planning](https://arxiv.org/abs/2611.19771)
+- [Func-JEPA: Learning a Sobolev Space of Functions as Latent Vectors](https://arxiv.org/abs/2611.19542)
+- [SLICES: A Benchmark and Evaluation Framework for Self-Supervised Learning on Sparse ICU Time Series](https://arxiv.org/abs/2611.18868)
+- [Foundation Model Fine-Tuning with Attention-based Multi-View Fusion for Multi-Task Cardiac Function Assessment](https://arxiv.org/abs/2611.18816)
 
 
 ## Library
