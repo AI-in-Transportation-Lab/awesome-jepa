@@ -435,6 +435,8 @@ November 19, 2026 at 06:40:43 AM UTC
 
 ### Written Tutorials
 
+- [ORBIT — a world model you can play](https://github.com/ArtAndrew/tiny-jepa-lab) — Interactive browser demo of JEPA-inspired action-conditioned planning, with human-vs-model challenges, reproducible failure examples, and full training-from-scratch code and notebooks. [Play](https://artandrew.github.io/tiny-jepa-lab/).
+
 ### Video Tutorials
 
 ## Contributing
