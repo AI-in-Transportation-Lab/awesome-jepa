@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 22, 2026 at 05:51:25 AM UTC
+November 23, 2026 at 06:38:54 AM UTC
 
 
 ## Theorem
 
-## Papers (394)
+## Papers (399)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -430,6 +430,11 @@ November 22, 2026 at 05:51:25 AM UTC
 - [LeCompass: Task-Level Execution through State-Indexed Interfaces](https://arxiv.org/abs/2611.25679)
 - [Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners](https://arxiv.org/abs/2611.25415)
 - [MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection](https://arxiv.org/abs/2611.25194)
+- [World Models for Learning Quantum Many-Body Dynamics](https://arxiv.org/abs/2611.27871)
+- [PhiJEPA: Denoising Latent Predictions for Visual Representation Learning](https://arxiv.org/abs/2611.27516)
+- [Beyond a Single Human Demonstration: Learning from Scored Trajectory Alternatives for End-to-End Driving](https://arxiv.org/abs/2611.27515)
+- [Re-JEPA: Coupling Representation Prediction and Signal Reconstruction for State-Conditioned EMG Tracking](https://arxiv.org/abs/2611.27299)
+- [Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models](https://arxiv.org/abs/2611.26825)
 
 
 ## Library
