@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 23, 2026 at 06:38:54 AM UTC
+November 24, 2026 at 09:07:06 AM UTC
 
 
 ## Theorem
 
-## Papers (399)
+## Papers (404)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -435,6 +435,11 @@ November 23, 2026 at 06:38:54 AM UTC
 - [Beyond a Single Human Demonstration: Learning from Scored Trajectory Alternatives for End-to-End Driving](https://arxiv.org/abs/2611.27515)
 - [Re-JEPA: Coupling Representation Prediction and Signal Reconstruction for State-Conditioned EMG Tracking](https://arxiv.org/abs/2611.27299)
 - [Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models](https://arxiv.org/abs/2611.26825)
+- [Assembly-JEPA: Using World Models for Fine-Grained Industrial Image Verification](https://arxiv.org/abs/2611.30530)
+- [LeHami: Symplectic Latent Dynamics Toward Long-Horizon Rollouts in World Models](https://arxiv.org/abs/2610.15267)
+- [JEPA-Shield: Safe Diffusion Planning with Latent World Models via Conformal Shielding](https://arxiv.org/abs/2611.29609)
+- [World Models for Ocean Engineering: A Critical Review of Maritime Autonomy, Adaptive Latent Prediction, Digital Twins, and Biodiversity Monitoring](https://arxiv.org/abs/2611.28978)
+- [A world model for longitudinal health-trajectory prediction in older adults across multinational cohorts](https://arxiv.org/abs/2611.28175)
 
 
 ## Library
