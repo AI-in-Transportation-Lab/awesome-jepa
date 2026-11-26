@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 25, 2026 at 07:43:41 AM UTC
+November 26, 2026 at 07:34:34 AM UTC
 
 
 ## Theorem
 
-## Papers (406)
+## Papers (407)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -442,6 +442,7 @@ November 25, 2026 at 07:43:41 AM UTC
 - [A world model for longitudinal health-trajectory prediction in older adults across multinational cohorts](https://arxiv.org/abs/2611.28175)
 - [PhysRF-WorldJEPA: Transforming Heterogeneous Large Language Models into Manifold-Decoupled Millimeter-Wave Radar World Models](https://arxiv.org/abs/2611.32113)
 - [JECT: Addressing the Context Shortcut in Joint-Embedding Predictive Learning for Chest CT](https://arxiv.org/abs/2611.31849)
+- [Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models](https://arxiv.org/abs/2611.34830)
 
 
 ## Library
